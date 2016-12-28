@@ -1,0 +1,27 @@
+{
+    "name": "tikaraj21/yii2-mailer",
+    "description": "PHP and SMTP Mailer",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Tika Raj Shrestha",
+            "email": "tika.raj@bentraytech.com"
+        }
+		 "repositories":[
+   		{
+        	"type": "git",
+        	"url": "https://github.com/tikaraj21/yii2-mailer/"
+    	}
+	],
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bentraytika\\mailer\\": ""
+        }
+    }
+}

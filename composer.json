@@ -9,12 +9,6 @@
             "name": "Tika Raj Shrestha",
             "email": "tika.raj@bentraytech.com"
         }
-		 "repositories":[
-   		{
-        	"type": "git",
-        	"url": "https://github.com/tikaraj21/yii2-mailer/"
-    	}
-	],
     ],
     "require": {
         "yiisoft/yii2": "*"

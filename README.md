@@ -33,7 +33,7 @@ return [
 
             ...
 
-            'email' => 'bentraytika\mailer\Mail',
+            'email' => 'tikaraj21\mailer\Mail',
             
             ...
 
@@ -47,7 +47,7 @@ Usage
 Once the extension is installed, simply use it in your code by using these codes as following way in the controller:
 
 ```php
-public function actionCreate()
+     public function actionCreate()
 
     {
 

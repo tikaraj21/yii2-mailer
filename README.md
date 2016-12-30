@@ -18,7 +18,7 @@ or add
 ```
 "tikaraj21/yii2-mailer": "*"
 ```
-
+if any problem use "yiisoft/yii2-swiftmailer": "~2.0.5",
 to the require section of your `composer.json` file.
 
 Configuration
